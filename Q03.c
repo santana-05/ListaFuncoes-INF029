@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define NUMERO 13
+#define NUMERO 12
 
 int fatorial(int num){
     int resultado = num;
