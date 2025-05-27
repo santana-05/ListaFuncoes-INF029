@@ -16,7 +16,7 @@ int main() {
     scanf("%d", &x);
     scanf("%d", &y);    
     
-    printf("%d", soma(x,y));
+    printf("%d\n", soma(x,y));
 
     return 0;
 }
