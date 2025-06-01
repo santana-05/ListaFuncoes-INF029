@@ -10,7 +10,6 @@ void lerNumeros(int numeros[], int copia[]){
     for(int i = 0; i < TAM; i++){
         copia[i] = numeros[i];
     }
-
 }
 
 int main (){
